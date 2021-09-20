@@ -1,0 +1,18 @@
+{
+    "name": "test/test",
+    "description": "testing",
+    "autoload": {
+        "psr-4": {
+            "Test\\Test\\": "vendor/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vlad B",
+            "email": "joinroyit@mail.ru"
+        }
+    ],
+    "require": {
+        "slim/slim-skeleton": "dev-master"
+    }
+}
